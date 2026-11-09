@@ -2,7 +2,7 @@
 
 I'm a software engineer who works across the web stack with a focus on front end.
 
-**[Resume](https://github.com/seancolsen/seancolsen/blob/main/Sean_Colsen_Resume.pdf)** / **[LinkedIn](https://linkedin.com/in/sean-colsen)** / **[Email](mailto:colsen.sean@gmail.com)**
+**[Resume (PDF)](https://github.com/seancolsen/seancolsen/blob/main/Sean_Colsen_Resume.pdf)** / **[Resume (markdown)](https://github.com/seancolsen/seancolsen/blob/main/resume.md)** / **[LinkedIn](https://linkedin.com/in/sean-colsen)** / **[Email](mailto:colsen.sean@gmail.com)**
 
 ## A few things I've built
 
