@@ -10,8 +10,8 @@ Senior Full Stack Software Engineer
 
 ## Technical Skills
 
-- **Proficient:** TypeScript, JavaScript, Svelte, React, Tailwind, Python, Django, PostgreSQL, Redis, MySQL, SQLite, PL/pgSQL, SQL, Rust, DuckDB, Node.js, Docker, Playwright, Jest
-- **Exposure:** Vue, Nuxt, PHP, Linux, Bash, Storybook, pgTAP, mypy, Selenium, AngularJS, Flask, Symfony, AWS, GCP, Ansible, Kubernetes, Nginx, Ruby, C++, Java, Mathematica
+- **Proficient:** TypeScript, JavaScript, Svelte, React, Tailwind, Python, Django, PostgreSQL, Redis, MySQL, SQLite, PL/pgSQL, SQL, Rust, DuckDB, Node.js, vite, Docker, Playwright, Jest, pytest, HTML, CSS, SVG, PWA, MkDocs, GitHub
+- **Exposure:** Axum, Vue, Nuxt, PHP, Linux, Bash, Storybook, a11y, pgTAP, mypy, Selenium, AngularJS, Flask, Symfony, AWS, GCP, Ansible, Kubernetes, Nginx, Ruby, C++, Java, Mathematica
 
 ## Experience
 
