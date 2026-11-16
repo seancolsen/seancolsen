@@ -10,8 +10,8 @@ Senior Full Stack Software Engineer
 
 ## Technical Skills
 
-- **Proficient:** TypeScript, JavaScript, Svelte, React, Tailwind, Python, Django, PostgreSQL, Redis, MySQL, SQLite, PL/pgSQL, SQL, Rust, DuckDB, Node.js, vite, Docker, Playwright, Jest, pytest, HTML, CSS, SVG, PWA, MkDocs, GitHub
-- **Exposure:** Axum, Vue, Nuxt, PHP, Linux, Bash, Storybook, a11y, pgTAP, mypy, Selenium, AngularJS, Flask, Symfony, AWS, GCP, Ansible, Kubernetes, Nginx, Ruby, C++, Java, Mathematica
+- **Proficient:** TypeScript, JavaScript, Svelte, React, Tailwind, SvelteKit, Python, Django, PostgreSQL, Redis, MySQL, SQLite, PL/pgSQL, SQL, Rust, DuckDB, Node.js, vite, Docker, Playwright, Jest, pytest, HTML, CSS, SVG, PWA, MkDocs, GitHub
+- **Exposure:** Axum, Vue, Nuxt, Next.js, PHP, Linux, Bash, Storybook, a11y, pgTAP, mypy, Selenium, AngularJS, Flask, Symfony, AWS, GCP, Ansible, Kubernetes, Nginx, Ruby, C++, Java, Mathematica
 
 ## Experience
 
@@ -55,19 +55,19 @@ Senior Full Stack Software Engineer
 
 React, TypeScript, Tailwind, Rust, Axum, DuckDB, PWA
 
-**High-performance music manager** and mobile player with user-defined data fields and querying via Querydown
+High-performance **personal music manager** and mobile player with a data-oriented features and vast customizability
 
-### [Querydown](https://github.com/seancolsen/querydown) (2023 - current)
+### [Querydown](https://querydown.org/) (2023 - current)
 
-Rust, SQL
+Rust, SQL, SvelteKit
 
-Expressive **query language** for relational databases that compiles to SQL
+Expressive **query language for end users** that compiles to SQL
 
 ### [Octave Compass](https://github.com/seancolsen/octave-compass) (2020)
 
 Svelte, TypeScript, SVG, PWA
 
-Interactive tool for musicians to explore **1,000+ named scales** and their chords, with 70+ Svelte components
+Interactive **music theory visualization tool** to explore 1,000+ named scales and the chords they contain
 
 ## Education
 
